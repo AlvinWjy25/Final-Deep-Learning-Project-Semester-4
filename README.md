@@ -81,7 +81,7 @@ The dataset is relatively small for a deep autoencoder.
 Roughly a 22% increase; hybrid MSE + SSIM helped preserve structure better than plain MSE alone.
 
 ---
-Notebook 3 — Conditional GAN
+## Notebook 3 — Conditional GAN
 
 ### 1). Dataset Description
 - Same overhead image dataset as project notebook 2 but used for generative modeling.
